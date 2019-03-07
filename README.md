@@ -1,2 +1,2 @@
 # BeautifulGirlNoteData
-BeautifulGirlNoteData {"imageName":"http://www.baidu.com", "title":"Cleansing mask","type":"hair", "remind":"Moisturizing mask - yogurt and cucumber"}
+BeautifulGirlNoteData {"imageName":"remind_hair_1.jpg", "title":"Cleansing mask","type":"hair", "remind":"Moisturizing mask - yogurt and cucumber"}
